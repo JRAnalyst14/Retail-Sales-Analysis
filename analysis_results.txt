@@ -1,0 +1,43 @@
+Sales Data Analysis Results
+==================================================
+
+Monthly Sales Trend:
+Date
+2023-01     8510
+2023-02     9130
+2023-03     8960
+2023-04     9590
+2023-05    12830
+Freq: M, Name: Total_Sales, dtype: int64
+
+Top 5 Products by Quantity Sold:
+Product
+Product C    297
+Product A    225
+Product D    205
+Product B    156
+Name: Quantity, dtype: int64
+
+Sales by Region:
+Region
+East     13970
+North    12180
+South    14830
+West      8040
+Name: Total_Sales, dtype: int64
+
+ANOVA Test Result: F-Statistic = 1.1882343767542143, P-Value = 0.32104886026882745
+There is no significant difference in sales between regions.
+
+Total Sales: 49020
+
+Top Products by Quantity Sold:
+Product
+Product C    297
+Product A    225
+Product D    205
+Product B    156
+Name: Quantity, dtype: int64
+
+Overall Profit Margin: 0.17
+
